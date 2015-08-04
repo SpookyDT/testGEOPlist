@@ -1,0 +1,2822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateActive</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateStarted</string>
+		<key>Time</key>
+		<date>2015-07-28T12:52:14Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateActive</string>
+		<key>Error</key>
+		<string>Error Domain=kCLErrorDomain Code=0 "The operation couldn’t be completed. (kCLErrorDomain error 0.)"</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateFailed</string>
+		<key>Time</key>
+		<date>2015-07-28T12:52:14Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateActive</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateStopped</string>
+		<key>Time</key>
+		<date>2015-07-28T12:52:15Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateActive</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateStarted</string>
+		<key>Time</key>
+		<date>2015-07-28T12:52:17Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateActive</string>
+		<key>Error</key>
+		<string>Error Domain=kCLErrorDomain Code=0 "The operation couldn’t be completed. (kCLErrorDomain error 0.)"</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateFailed</string>
+		<key>Time</key>
+		<date>2015-07-28T12:52:17Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateActive</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.905572
+longitude +27.480306
+2015-07-28 12:52:26 +0000</string>
+		<key>Time</key>
+		<date>2015-07-28T12:52:26Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationLaunchedByReceiveLocation</string>
+		<key>Time</key>
+		<date>2015-07-28T13:32:54Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.905677
+longitude +27.536284
+2015-07-28 13:32:54 +0000</string>
+		<key>Time</key>
+		<date>2015-07-28T13:32:54Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitFailed</string>
+		<key>Location</key>
+		<string>latitude +53.905677
+longitude +27.536284
+2015-07-28 13:32:54 +0000</string>
+		<key>Time</key>
+		<date>2015-07-28T13:32:58Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateActive</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.891967
+longitude +27.549853
+2015-07-28 14:12:02 +0000</string>
+		<key>Time</key>
+		<date>2015-07-28T14:12:02Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateActive</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.891967
+longitude +27.549853
+2015-07-28 14:12:02 +0000</string>
+		<key>Time</key>
+		<date>2015-07-28T14:12:04Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationLaunchedByReceiveLocation</string>
+		<key>Time</key>
+		<date>2015-07-28T14:51:35Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.946675
+longitude +27.339981
+2015-07-28 14:51:35 +0000</string>
+		<key>Time</key>
+		<date>2015-07-28T14:51:35Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.946675
+longitude +27.339981
+2015-07-28 14:51:35 +0000</string>
+		<key>Time</key>
+		<date>2015-07-28T14:51:42Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.980910
+longitude +27.316299
+2015-07-28 14:57:54 +0000</string>
+		<key>Time</key>
+		<date>2015-07-28T14:57:54Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +54.014250
+longitude +27.281651
+2015-07-28 15:05:52 +0000</string>
+		<key>Time</key>
+		<date>2015-07-28T15:05:52Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitFailed</string>
+		<key>Location</key>
+		<string>latitude +53.980910
+longitude +27.316299
+2015-07-28 14:57:54 +0000</string>
+		<key>Time</key>
+		<date>2015-07-28T15:11:24Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +54.128198
+longitude +27.235896
+2015-07-28 15:11:24 +0000</string>
+		<key>Time</key>
+		<date>2015-07-28T15:11:24Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +54.014250
+longitude +27.281651
+2015-07-28 15:05:52 +0000</string>
+		<key>Time</key>
+		<date>2015-07-28T15:11:26Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +54.128198
+longitude +27.235896
+2015-07-28 15:11:24 +0000</string>
+		<key>Time</key>
+		<date>2015-07-28T15:11:27Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +54.181315
+longitude +27.175233
+2015-07-28 15:16:30 +0000</string>
+		<key>Time</key>
+		<date>2015-07-28T15:16:30Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +54.181315
+longitude +27.175233
+2015-07-28 15:16:30 +0000</string>
+		<key>Time</key>
+		<date>2015-07-28T15:16:33Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +54.244329
+longitude +27.079692
+2015-07-28 15:21:38 +0000</string>
+		<key>Time</key>
+		<date>2015-07-28T15:21:38Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +54.244329
+longitude +27.079692
+2015-07-28 15:21:38 +0000</string>
+		<key>Time</key>
+		<date>2015-07-28T15:21:41Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +54.275001
+longitude +27.029142
+2015-07-28 15:27:04 +0000</string>
+		<key>Time</key>
+		<date>2015-07-28T15:27:04Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +54.275001
+longitude +27.029142
+2015-07-28 15:27:04 +0000</string>
+		<key>Time</key>
+		<date>2015-07-28T15:27:11Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +54.292709
+longitude +26.890609
+2015-07-28 15:32:04 +0000</string>
+		<key>Time</key>
+		<date>2015-07-28T15:32:04Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +54.301581
+longitude +26.858814
+2015-07-28 15:42:30 +0000</string>
+		<key>Time</key>
+		<date>2015-07-28T15:42:30Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitFailed</string>
+		<key>Location</key>
+		<string>latitude +54.292709
+longitude +26.890609
+2015-07-28 15:32:04 +0000</string>
+		<key>Time</key>
+		<date>2015-07-28T15:42:31Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +54.301581
+longitude +26.858814
+2015-07-28 15:42:30 +0000</string>
+		<key>Time</key>
+		<date>2015-07-28T15:42:34Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +54.292858
+longitude +26.916054
+2015-07-29 05:43:11 +0000</string>
+		<key>Time</key>
+		<date>2015-07-29T05:43:12Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +54.292858
+longitude +26.916054
+2015-07-29 05:43:11 +0000</string>
+		<key>Time</key>
+		<date>2015-07-29T05:43:13Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +54.292881
+longitude +26.866937
+2015-07-29 05:48:14 +0000</string>
+		<key>Time</key>
+		<date>2015-07-29T05:48:14Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +54.292881
+longitude +26.866937
+2015-07-29 05:48:14 +0000</string>
+		<key>Time</key>
+		<date>2015-07-29T05:48:17Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +54.279626
+longitude +26.996408
+2015-07-29 05:57:19 +0000</string>
+		<key>Time</key>
+		<date>2015-07-29T05:57:20Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +54.279626
+longitude +26.996408
+2015-07-29 05:57:19 +0000</string>
+		<key>Time</key>
+		<date>2015-07-29T05:57:22Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +54.235010
+longitude +27.078267
+2015-07-29 06:06:20 +0000</string>
+		<key>Time</key>
+		<date>2015-07-29T06:06:20Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +54.235010
+longitude +27.078267
+2015-07-29 06:06:20 +0000</string>
+		<key>Time</key>
+		<date>2015-07-29T06:06:21Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +54.172208
+longitude +27.087874
+2015-07-29 06:13:21 +0000</string>
+		<key>Time</key>
+		<date>2015-07-29T06:13:21Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitFailed</string>
+		<key>Location</key>
+		<string>latitude +54.172208
+longitude +27.087874
+2015-07-29 06:13:21 +0000</string>
+		<key>Time</key>
+		<date>2015-07-29T06:22:22Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +54.120741
+longitude +27.110737
+2015-07-29 06:22:21 +0000</string>
+		<key>Time</key>
+		<date>2015-07-29T06:22:22Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +54.120741
+longitude +27.110737
+2015-07-29 06:22:21 +0000</string>
+		<key>Time</key>
+		<date>2015-07-29T06:22:25Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +54.090377
+longitude +27.184985
+2015-07-29 06:31:22 +0000</string>
+		<key>Time</key>
+		<date>2015-07-29T06:31:22Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +54.090377
+longitude +27.184985
+2015-07-29 06:31:22 +0000</string>
+		<key>Time</key>
+		<date>2015-07-29T06:31:23Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +54.074684
+longitude +27.211258
+2015-07-29 06:36:51 +0000</string>
+		<key>Time</key>
+		<date>2015-07-29T06:36:51Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +54.074684
+longitude +27.211258
+2015-07-29 06:36:51 +0000</string>
+		<key>Time</key>
+		<date>2015-07-29T06:36:55Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationLaunchedByReceiveLocation</string>
+		<key>Time</key>
+		<date>2015-07-29T06:45:51Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +54.015390
+longitude +27.282406
+2015-07-29 06:45:51 +0000</string>
+		<key>Time</key>
+		<date>2015-07-29T06:45:51Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +54.015390
+longitude +27.282406
+2015-07-29 06:45:51 +0000</string>
+		<key>Time</key>
+		<date>2015-07-29T06:45:56Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.978188
+longitude +27.294777
+2015-07-29 06:52:55 +0000</string>
+		<key>Time</key>
+		<date>2015-07-29T06:52:55Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitFailed</string>
+		<key>Location</key>
+		<string>latitude +53.978188
+longitude +27.294777
+2015-07-29 06:52:55 +0000</string>
+		<key>Time</key>
+		<date>2015-07-29T06:59:30Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.948074
+longitude +27.363116
+2015-07-29 06:59:30 +0000</string>
+		<key>Time</key>
+		<date>2015-07-29T06:59:30Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.948074
+longitude +27.363116
+2015-07-29 06:59:30 +0000</string>
+		<key>Time</key>
+		<date>2015-07-29T06:59:32Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.905612
+longitude +27.480632
+2015-07-29 17:25:13 +0000</string>
+		<key>Time</key>
+		<date>2015-07-29T17:25:13Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.905612
+longitude +27.480632
+2015-07-29 17:25:13 +0000</string>
+		<key>Time</key>
+		<date>2015-07-29T17:25:19Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateActive</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.905406
+longitude +27.479934
+2015-07-30 11:09:49 +0000</string>
+		<key>Time</key>
+		<date>2015-07-30T11:17:17Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateActive</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.905406
+longitude +27.479934
+2015-07-30 11:09:49 +0000</string>
+		<key>Time</key>
+		<date>2015-07-30T11:17:43Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateActive</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateStopped</string>
+		<key>Time</key>
+		<date>2015-07-30T11:32:36Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateActive</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateStarted</string>
+		<key>Time</key>
+		<date>2015-07-30T11:32:37Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationLaunchedByReceiveLocation</string>
+		<key>Time</key>
+		<date>2015-07-30T11:57:25Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateActive</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateStopped</string>
+		<key>Time</key>
+		<date>2015-07-30T18:30:33Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateActive</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateStarted</string>
+		<key>Time</key>
+		<date>2015-07-30T18:30:34Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateInactive</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.905572
+longitude +27.480318
+2015-07-31 16:46:07 +0000</string>
+		<key>Time</key>
+		<date>2015-07-31T16:55:08Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateActive</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.905572
+longitude +27.480318
+2015-07-31 16:46:07 +0000</string>
+		<key>Time</key>
+		<date>2015-07-31T16:55:09Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationDidEnterBackground</string>
+		<key>Time</key>
+		<date>2015-07-31T16:59:34Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +19.017615
+longitude +72.856164
+2015-07-31 16:59:34 +0000</string>
+		<key>Time</key>
+		<date>2015-07-31T16:59:35Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +19.017615
+longitude +72.856164
+2015-07-31 16:59:34 +0000</string>
+		<key>Time</key>
+		<date>2015-07-31T16:59:36Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationWillEnterForeground</string>
+		<key>Time</key>
+		<date>2015-07-31T16:59:46Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationDidEnterBackground</string>
+		<key>Time</key>
+		<date>2015-07-31T17:00:30Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationWillEnterForeground</string>
+		<key>Time</key>
+		<date>2015-07-31T17:00:37Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationDidEnterBackground</string>
+		<key>Time</key>
+		<date>2015-07-31T17:02:11Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitInBackgroundSucceeded</string>
+		<key>Location</key>
+		<string>latitude +19.017615
+longitude +72.856164
+2015-07-31 16:59:34 +0000</string>
+		<key>Time</key>
+		<date>2015-07-31T17:09:38Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitInBackgroundSucceeded</string>
+		<key>Location</key>
+		<string>latitude +19.017615
+longitude +72.856164
+2015-07-31 16:59:34 +0000</string>
+		<key>Time</key>
+		<date>2015-07-31T17:10:02Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationWillEnterForeground</string>
+		<key>Time</key>
+		<date>2015-07-31T17:10:10Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateInactive</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.910094
+longitude +27.478596
+2015-07-31 17:10:10 +0000</string>
+		<key>Time</key>
+		<date>2015-07-31T17:10:10Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateActive</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.910094
+longitude +27.478596
+2015-07-31 17:10:10 +0000</string>
+		<key>Time</key>
+		<date>2015-07-31T17:10:11Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationBackgroundFetchStarted</string>
+		<key>Time</key>
+		<date>2015-07-31T17:12:05Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationBackgroundFetchStarted</string>
+		<key>Time</key>
+		<date>2015-07-31T17:12:18Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationWillEnterForeground</string>
+		<key>Time</key>
+		<date>2015-07-31T17:12:29Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationDidEnterBackground</string>
+		<key>Time</key>
+		<date>2015-07-31T17:13:31Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationBackgroundFetchStarted</string>
+		<key>Time</key>
+		<date>2015-07-31T17:18:40Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationWillEnterForeground</string>
+		<key>Time</key>
+		<date>2015-07-31T17:18:59Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationDidEnterBackground</string>
+		<key>Time</key>
+		<date>2015-07-31T17:19:06Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationWillEnterForeground</string>
+		<key>Time</key>
+		<date>2015-07-31T17:19:15Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationDidEnterBackground</string>
+		<key>Time</key>
+		<date>2015-07-31T17:19:29Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationWillEnterForeground</string>
+		<key>Time</key>
+		<date>2015-07-31T17:19:36Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationBackgroundFetchStarted</string>
+		<key>Time</key>
+		<date>2015-07-31T17:22:07Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationBackgroundFetchStarted</string>
+		<key>Time</key>
+		<date>2015-07-31T17:32:58Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationBackgroundFetchStarted</string>
+		<key>Time</key>
+		<date>2015-07-31T18:10:43Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationWillEnterForeground</string>
+		<key>Time</key>
+		<date>2015-07-31T18:10:45Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateInactive</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.905633
+longitude +27.480463
+2015-07-31 18:10:41 +0000</string>
+		<key>Time</key>
+		<date>2015-07-31T18:10:45Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateActive</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.905633
+longitude +27.480463
+2015-07-31 18:10:41 +0000</string>
+		<key>Time</key>
+		<date>2015-07-31T18:10:46Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateActive</string>
+		<key>Event</key>
+		<string>EventTypeApplicationDidBecomeActive</string>
+		<key>Time</key>
+		<date>2015-07-31T18:12:38Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateActive</string>
+		<key>Event</key>
+		<string>EventTypeApplicationDidBecomeActive</string>
+		<key>Time</key>
+		<date>2015-07-31T18:13:25Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateActive</string>
+		<key>Event</key>
+		<string>EventTypeApplicationDidBecomeActive</string>
+		<key>Time</key>
+		<date>2015-07-31T18:13:29Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationDidEnterBackground</string>
+		<key>Time</key>
+		<date>2015-07-31T18:14:06Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateActive</string>
+		<key>Event</key>
+		<string>EventTypeApplicationDidBecomeActive</string>
+		<key>Time</key>
+		<date>2015-07-31T18:58:27Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationDidEnterBackground</string>
+		<key>Time</key>
+		<date>2015-07-31T18:59:56Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateActive</string>
+		<key>Event</key>
+		<string>EventTypeApplicationDidBecomeActive</string>
+		<key>Time</key>
+		<date>2015-07-31T19:00:01Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateActive</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateStopped</string>
+		<key>Time</key>
+		<date>2015-07-31T19:00:01Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateActive</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateStarted</string>
+		<key>Time</key>
+		<date>2015-07-31T19:00:02Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationDidEnterBackground</string>
+		<key>Time</key>
+		<date>2015-07-31T19:00:11Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateActive</string>
+		<key>Event</key>
+		<string>EventTypeApplicationDidBecomeActive</string>
+		<key>Time</key>
+		<date>2015-07-31T19:21:53Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationDidEnterBackground</string>
+		<key>Time</key>
+		<date>2015-07-31T19:22:10Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateActive</string>
+		<key>Event</key>
+		<string>EventTypeApplicationDidBecomeActive</string>
+		<key>Time</key>
+		<date>2015-07-31T20:54:18Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationDidEnterBackground</string>
+		<key>Time</key>
+		<date>2015-07-31T20:57:14Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateActive</string>
+		<key>Event</key>
+		<string>EventTypeApplicationDidBecomeActive</string>
+		<key>Time</key>
+		<date>2015-07-31T20:58:52Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationDidEnterBackground</string>
+		<key>Time</key>
+		<date>2015-07-31T20:59:12Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationBackgroundFetchStarted</string>
+		<key>Time</key>
+		<date>2015-07-31T20:59:16Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateActive</string>
+		<key>Event</key>
+		<string>EventTypeApplicationDidBecomeActive</string>
+		<key>Time</key>
+		<date>2015-07-31T21:03:55Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationDidEnterBackground</string>
+		<key>Time</key>
+		<date>2015-07-31T21:04:01Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateActive</string>
+		<key>Event</key>
+		<string>EventTypeApplicationDidBecomeActive</string>
+		<key>Time</key>
+		<date>2015-07-31T21:07:54Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationDidEnterBackground</string>
+		<key>Time</key>
+		<date>2015-07-31T21:09:21Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateActive</string>
+		<key>Event</key>
+		<string>EventTypeApplicationDidBecomeActive</string>
+		<key>Time</key>
+		<date>2015-07-31T21:10:52Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationDidEnterBackground</string>
+		<key>Time</key>
+		<date>2015-07-31T21:10:55Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationBackgroundFetchStarted</string>
+		<key>Time</key>
+		<date>2015-07-31T21:12:56Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateActive</string>
+		<key>Event</key>
+		<string>EventTypeApplicationDidBecomeActive</string>
+		<key>Time</key>
+		<date>2015-07-31T21:13:28Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationDidEnterBackground</string>
+		<key>Time</key>
+		<date>2015-07-31T21:13:45Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateActive</string>
+		<key>Event</key>
+		<string>EventTypeApplicationDidBecomeActive</string>
+		<key>Time</key>
+		<date>2015-07-31T21:13:46Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationDidEnterBackground</string>
+		<key>Time</key>
+		<date>2015-07-31T21:13:48Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationBackgroundFetchStarted</string>
+		<key>Time</key>
+		<date>2015-07-31T21:19:55Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationBackgroundFetchStarted</string>
+		<key>Time</key>
+		<date>2015-07-31T21:34:35Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationBackgroundFetchStarted</string>
+		<key>Time</key>
+		<date>2015-07-31T21:45:07Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationBackgroundFetchStarted</string>
+		<key>Time</key>
+		<date>2015-07-31T22:04:55Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationBackgroundFetchStarted</string>
+		<key>Time</key>
+		<date>2015-07-31T22:19:40Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationBackgroundFetchStarted</string>
+		<key>Time</key>
+		<date>2015-07-31T22:39:35Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationBackgroundFetchStarted</string>
+		<key>Time</key>
+		<date>2015-07-31T22:54:20Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationBackgroundFetchStarted</string>
+		<key>Time</key>
+		<date>2015-07-31T23:03:22Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationBackgroundFetchStarted</string>
+		<key>Time</key>
+		<date>2015-07-31T23:13:33Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationBackgroundFetchStarted</string>
+		<key>Time</key>
+		<date>2015-07-31T23:23:40Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationBackgroundFetchStarted</string>
+		<key>Time</key>
+		<date>2015-07-31T23:33:50Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationBackgroundFetchStarted</string>
+		<key>Time</key>
+		<date>2015-07-31T23:44:00Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationBackgroundFetchStarted</string>
+		<key>Time</key>
+		<date>2015-07-31T23:54:09Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.905656
+longitude +27.479932
+2015-08-01 06:57:42 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T06:57:42Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitFailed</string>
+		<key>Location</key>
+		<string>latitude +53.905656
+longitude +27.479932
+2015-08-01 06:57:42 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T08:22:00Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateActive</string>
+		<key>Event</key>
+		<string>EventTypeApplicationDidBecomeActive</string>
+		<key>Time</key>
+		<date>2015-08-01T08:22:01Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationDidEnterBackground</string>
+		<key>Time</key>
+		<date>2015-08-01T08:24:23Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationLaunchedByReceiveLocation</string>
+		<key>Time</key>
+		<date>2015-08-01T10:16:52Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.878463
+longitude +27.526714
+2015-08-01 10:16:51 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T10:16:52Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitFailed</string>
+		<key>Location</key>
+		<string>latitude +53.878463
+longitude +27.526714
+2015-08-01 10:16:51 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T10:22:22Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.857513
+longitude +27.506103
+2015-08-01 10:22:22 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T10:22:22Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.857513
+longitude +27.506103
+2015-08-01 10:22:22 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T10:22:25Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.844923
+longitude +27.477993
+2015-08-01 10:27:30 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T10:27:30Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitFailed</string>
+		<key>Location</key>
+		<string>latitude +53.844923
+longitude +27.477993
+2015-08-01 10:27:30 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T10:32:45Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.810065
+longitude +27.443385
+2015-08-01 10:32:45 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T10:32:45Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.810065
+longitude +27.443385
+2015-08-01 10:32:45 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T10:32:50Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.789402
+longitude +27.404625
+2015-08-01 10:37:54 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T10:37:55Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.789402
+longitude +27.404625
+2015-08-01 10:37:54 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T10:37:57Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.753002
+longitude +27.369520
+2015-08-01 10:43:02 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T10:43:02Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.753002
+longitude +27.369520
+2015-08-01 10:43:02 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T10:43:03Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.716928
+longitude +27.305521
+2015-08-01 10:48:08 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T10:48:09Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.694844
+longitude +27.221241
+2015-08-01 10:53:58 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T10:53:59Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitFailed</string>
+		<key>Location</key>
+		<string>latitude +53.716928
+longitude +27.305521
+2015-08-01 10:48:08 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T10:53:59Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.694844
+longitude +27.221241
+2015-08-01 10:53:58 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T10:54:05Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.672990
+longitude +27.157435
+2015-08-01 11:04:14 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T11:04:14Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.672990
+longitude +27.157435
+2015-08-01 11:04:14 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T11:04:17Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.685462
+longitude +27.159810
+2015-08-01 11:25:14 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T11:25:14Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.685462
+longitude +27.159810
+2015-08-01 11:25:14 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T11:25:17Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.693678
+longitude +27.213261
+2015-08-01 11:34:46 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T11:34:47Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.693678
+longitude +27.213261
+2015-08-01 11:34:46 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T11:34:49Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.635909
+longitude +27.224988
+2015-08-01 11:58:08 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T11:58:09Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitFailed</string>
+		<key>Location</key>
+		<string>latitude +53.635909
+longitude +27.224988
+2015-08-01 11:58:08 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T12:13:52Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.663731
+longitude +27.299464
+2015-08-01 12:13:52 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T12:13:52Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.663731
+longitude +27.299464
+2015-08-01 12:13:52 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T12:13:54Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.637596
+longitude +27.244530
+2015-08-01 12:19:19 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T12:19:19Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.637596
+longitude +27.244530
+2015-08-01 12:19:19 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T12:19:27Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.596072
+longitude +27.190405
+2015-08-01 13:59:00 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T13:59:01Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitFailed</string>
+		<key>Location</key>
+		<string>latitude +53.596072
+longitude +27.190405
+2015-08-01 13:59:00 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T14:15:20Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.629100
+longitude +27.227482
+2015-08-01 14:15:20 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T14:15:21Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.629100
+longitude +27.227482
+2015-08-01 14:15:20 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T14:15:25Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.590024
+longitude +27.183799
+2015-08-01 14:34:15 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T14:34:15Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitFailed</string>
+		<key>Location</key>
+		<string>latitude +53.590024
+longitude +27.183799
+2015-08-01 14:34:15 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T15:05:56Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.623362
+longitude +27.225812
+2015-08-01 15:05:55 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T15:05:56Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.651208
+longitude +27.219646
+2015-08-01 15:57:17 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T15:57:18Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitFailed</string>
+		<key>Location</key>
+		<string>latitude +53.623362
+longitude +27.225812
+2015-08-01 15:05:55 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T15:57:18Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitFailed</string>
+		<key>Location</key>
+		<string>latitude +53.651208
+longitude +27.219646
+2015-08-01 15:57:17 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T18:19:25Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.689839
+longitude +27.215060
+2015-08-01 18:19:25 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T18:19:26Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitFailed</string>
+		<key>Location</key>
+		<string>latitude +53.689839
+longitude +27.215060
+2015-08-01 18:19:25 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T18:31:21Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.680548
+longitude +27.171868
+2015-08-01 18:31:21 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T18:31:21Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.680548
+longitude +27.171868
+2015-08-01 18:31:21 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T18:31:28Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.682749
+longitude +27.158174
+2015-08-01 19:16:21 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T19:16:21Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.682749
+longitude +27.158174
+2015-08-01 19:16:21 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T19:16:25Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.529779
+longitude +26.817569
+2015-08-01 20:15:46 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T20:15:46Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.499066
+longitude +26.761108
+2015-08-01 20:34:53 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T20:34:54Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitFailed</string>
+		<key>Location</key>
+		<string>latitude +53.529779
+longitude +26.817569
+2015-08-01 20:15:46 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T20:34:54Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.499066
+longitude +26.761108
+2015-08-01 20:34:53 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T20:34:56Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateActive</string>
+		<key>Event</key>
+		<string>EventTypeApplicationDidBecomeActive</string>
+		<key>Time</key>
+		<date>2015-08-01T20:35:01Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationDidEnterBackground</string>
+		<key>Time</key>
+		<date>2015-08-01T20:37:36Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeApplicationLaunchedByReceiveLocation</string>
+		<key>Time</key>
+		<date>2015-08-01T22:30:50Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.464901
+longitude +26.739544
+2015-08-01 22:30:50 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T22:30:51Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.464901
+longitude +26.739544
+2015-08-01 22:30:50 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T22:30:53Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.507528
+longitude +26.773400
+2015-08-01 22:40:45 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T22:40:46Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.507528
+longitude +26.773400
+2015-08-01 22:40:45 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T22:40:50Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.480105
+longitude +26.745658
+2015-08-01 23:22:26 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T23:22:27Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.480105
+longitude +26.745658
+2015-08-01 23:22:26 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T23:22:30Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.348401
+longitude +26.557055
+2015-08-01 23:36:10 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T23:36:11Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.348401
+longitude +26.557055
+2015-08-01 23:36:10 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T23:36:15Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.314544
+longitude +26.532938
+2015-08-01 23:41:43 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T23:41:43Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.314544
+longitude +26.532938
+2015-08-01 23:41:43 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T23:41:46Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.262257
+longitude +26.389822
+2015-08-01 23:51:10 +0000</string>
+		<key>Time</key>
+		<date>2015-08-01T23:51:10Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.153682
+longitude +26.058296
+2015-08-02 00:05:55 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T00:05:56Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitFailed</string>
+		<key>Location</key>
+		<string>latitude +53.262257
+longitude +26.389822
+2015-08-01 23:51:10 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T00:05:56Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.135834
+longitude +26.028426
+2015-08-02 00:11:13 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T00:11:14Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.153682
+longitude +26.058296
+2015-08-02 00:05:55 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T00:11:15Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.135834
+longitude +26.028426
+2015-08-02 00:11:13 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T00:11:16Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.129621
+longitude +26.042756
+2015-08-02 00:56:55 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T00:56:55Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.129621
+longitude +26.042756
+2015-08-02 00:56:55 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T00:56:58Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +52.959360
+longitude +25.725669
+2015-08-02 01:47:40 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T01:47:41Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +52.959360
+longitude +25.725669
+2015-08-02 01:47:40 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T01:47:43Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +52.981116
+longitude +25.767223
+2015-08-02 18:06:52 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T18:06:52Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +52.981116
+longitude +25.767223
+2015-08-02 18:06:52 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T18:06:54Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.029534
+longitude +25.815366
+2015-08-02 18:23:07 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T18:23:07Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.107537
+longitude +25.895878
+2015-08-02 18:28:32 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T18:28:32Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.029534
+longitude +25.815366
+2015-08-02 18:23:07 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T18:28:36Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.107537
+longitude +25.895878
+2015-08-02 18:28:32 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T18:28:36Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.120449
+longitude +25.980734
+2015-08-02 18:33:42 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T18:33:42Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.120449
+longitude +25.980734
+2015-08-02 18:33:42 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T18:33:43Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.136332
+longitude +25.996288
+2015-08-02 18:38:46 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T18:38:47Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.136332
+longitude +25.996288
+2015-08-02 18:38:46 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T18:38:49Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.129550
+longitude +26.033513
+2015-08-02 18:48:57 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T18:48:57Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.129550
+longitude +26.033513
+2015-08-02 18:48:57 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T18:48:59Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.143779
+longitude +26.023227
+2015-08-02 19:14:29 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T19:14:29Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitFailed</string>
+		<key>Location</key>
+		<string>latitude +53.143779
+longitude +26.023227
+2015-08-02 19:14:29 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T19:35:04Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.193315
+longitude +26.092656
+2015-08-02 19:35:03 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T19:35:04Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitFailed</string>
+		<key>Location</key>
+		<string>latitude +53.193315
+longitude +26.092656
+2015-08-02 19:35:03 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T19:40:59Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.304877
+longitude +26.411117
+2015-08-02 19:40:59 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T19:40:59Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.304877
+longitude +26.411117
+2015-08-02 19:40:59 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T19:41:02Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.339852
+longitude +26.518803
+2015-08-02 19:46:04 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T19:46:05Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.339852
+longitude +26.518803
+2015-08-02 19:46:04 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T19:46:06Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.396678
+longitude +26.634909
+2015-08-02 19:51:10 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T19:51:10Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.396678
+longitude +26.634909
+2015-08-02 19:51:10 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T19:51:13Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.443356
+longitude +26.701109
+2015-08-02 19:56:17 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T19:56:17Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.443356
+longitude +26.701109
+2015-08-02 19:56:17 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T19:56:19Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.494961
+longitude +26.770059
+2015-08-02 20:01:21 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T20:01:21Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.494961
+longitude +26.770059
+2015-08-02 20:01:21 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T20:01:29Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.544672
+longitude +26.923936
+2015-08-02 20:11:52 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T20:11:53Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.609762
+longitude +27.043075
+2015-08-02 20:17:11 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T20:17:11Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitFailed</string>
+		<key>Location</key>
+		<string>latitude +53.544672
+longitude +26.923936
+2015-08-02 20:11:52 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T20:17:11Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.609762
+longitude +27.043075
+2015-08-02 20:17:11 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T20:17:16Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.654299
+longitude +27.084807
+2015-08-02 20:27:27 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T20:27:27Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.654299
+longitude +27.084807
+2015-08-02 20:27:27 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T20:27:29Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.687614
+longitude +27.193328
+2015-08-02 20:32:34 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T20:32:34Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitFailed</string>
+		<key>Location</key>
+		<string>latitude +53.687614
+longitude +27.193328
+2015-08-02 20:32:34 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T20:42:30Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.724699
+longitude +27.275021
+2015-08-02 20:42:30 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T20:42:30Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.724699
+longitude +27.275021
+2015-08-02 20:42:30 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T20:42:39Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.736754
+longitude +27.342106
+2015-08-02 20:48:03 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T20:48:03Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.736754
+longitude +27.342106
+2015-08-02 20:48:03 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T20:48:05Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.798523
+longitude +27.388090
+2015-08-02 21:03:19 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T21:03:20Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.798523
+longitude +27.388090
+2015-08-02 21:03:19 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T21:03:22Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.813970
+longitude +27.454998
+2015-08-02 21:08:27 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T21:08:27Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.813970
+longitude +27.454998
+2015-08-02 21:08:27 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T21:08:28Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.847595
+longitude +27.482661
+2015-08-02 21:13:34 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T21:13:35Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.847595
+longitude +27.482661
+2015-08-02 21:13:34 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T21:13:37Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.863440
+longitude +27.520925
+2015-08-02 21:18:39 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T21:18:40Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.863440
+longitude +27.520925
+2015-08-02 21:18:39 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T21:18:41Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.891942
+longitude +27.543408
+2015-08-02 21:33:56 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T21:33:56Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.891942
+longitude +27.543408
+2015-08-02 21:33:56 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T21:33:59Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.906939
+longitude +27.492089
+2015-08-02 22:09:37 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T22:09:37Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.906939
+longitude +27.492089
+2015-08-02 22:09:37 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T22:09:39Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationUpdateSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.906325
+longitude +27.481355
+2015-08-02 22:35:02 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T22:35:02Z</date>
+	</dict>
+	<dict>
+		<key>ApplicationStatus</key>
+		<string>UIApplicationStateBackground</string>
+		<key>Event</key>
+		<string>EventTypeLocationSubmitSucceeded</string>
+		<key>Location</key>
+		<string>latitude +53.906325
+longitude +27.481355
+2015-08-02 22:35:02 +0000</string>
+		<key>Time</key>
+		<date>2015-08-02T22:35:03Z</date>
+	</dict>
+</array>
+</plist>
