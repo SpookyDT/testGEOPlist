@@ -8,7 +8,6 @@
 
 #import "MapViewController.h"
 #import "LocationAnnotation.h"
-#import "EBGeolocationLogger.h"
 
 @interface MapViewController ()
 
@@ -24,7 +23,7 @@
     self.navigationItem.title = @"Map";
     
     // Do any additional setup after loading the view, typically from a nib.
-    NSString *path = [EBGeolocationLogger pathToLogs];
+    NSString *path = [[NSBundle mainBundle] pathForResource:@"Logs" ofType:@"plist"];
     NSMutableArray *logs = [[NSMutableArray alloc] initWithContentsOfFile:path];
     NSMutableArray *annotations = [NSMutableArray new];
     for (NSDictionary *dictionary in logs)

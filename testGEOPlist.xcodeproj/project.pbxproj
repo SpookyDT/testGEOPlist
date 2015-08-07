@@ -7,9 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5C08D4E81B753800004A915E /* MapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5C08D4E61B753800004A915E /* MapViewController.m */; };
 		5C69979B1B701DE80041C25A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5C69979A1B701DE80041C25A /* main.m */; };
 		5C69979E1B701DE80041C25A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5C69979D1B701DE80041C25A /* AppDelegate.m */; };
-		5C6997A11B701DE80041C25A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5C6997A01B701DE80041C25A /* ViewController.m */; };
 		5C6997A41B701DE80041C25A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5C6997A21B701DE80041C25A /* Main.storyboard */; };
 		5C6997A61B701DE80041C25A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5C6997A51B701DE80041C25A /* Images.xcassets */; };
 		5C6997A91B701DE80041C25A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5C6997A71B701DE80041C25A /* LaunchScreen.xib */; };
@@ -30,13 +30,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5C08D4E61B753800004A915E /* MapViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapViewController.m; sourceTree = "<group>"; };
+		5C08D4E71B753800004A915E /* MapViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapViewController.h; sourceTree = "<group>"; };
 		5C6997951B701DE80041C25A /* testGEOPlist.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testGEOPlist.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5C6997991B701DE80041C25A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5C69979A1B701DE80041C25A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		5C69979C1B701DE80041C25A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		5C69979D1B701DE80041C25A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		5C69979F1B701DE80041C25A /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		5C6997A01B701DE80041C25A /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		5C6997A31B701DE80041C25A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		5C6997A51B701DE80041C25A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		5C6997A81B701DE80041C25A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
@@ -90,11 +90,11 @@
 		5C6997971B701DE80041C25A /* testGEOPlist */ = {
 			isa = PBXGroup;
 			children = (
+				5C08D4E61B753800004A915E /* MapViewController.m */,
+				5C08D4E71B753800004A915E /* MapViewController.h */,
 				5C6997BE1B701E020041C25A /* Logs.plist */,
 				5C69979C1B701DE80041C25A /* AppDelegate.h */,
 				5C69979D1B701DE80041C25A /* AppDelegate.m */,
-				5C69979F1B701DE80041C25A /* ViewController.h */,
-				5C6997A01B701DE80041C25A /* ViewController.m */,
 				5C6997A21B701DE80041C25A /* Main.storyboard */,
 				5C6997A51B701DE80041C25A /* Images.xcassets */,
 				5C6997A71B701DE80041C25A /* LaunchScreen.xib */,
@@ -232,8 +232,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5C6997A11B701DE80041C25A /* ViewController.m in Sources */,
 				5C69979E1B701DE80041C25A /* AppDelegate.m in Sources */,
+				5C08D4E81B753800004A915E /* MapViewController.m in Sources */,
 				5C69979B1B701DE80041C25A /* main.m in Sources */,
 				5C6997C71B70200E0041C25A /* LocationAnnotation.m in Sources */,
 			);

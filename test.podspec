@@ -17,19 +17,13 @@ Pod::Spec.new do |s|
 
   s.name         = "test"
   s.version      = "0.0.1"
-  s.summary      = "A short description of test."
+  s.summary      = "Description of test."
 
   s.description  = <<-DESC
-                   A longer description of test in Markdown format.
-
-                   * Think: Why did you write this? What is the focus? What does it do?
-                   * CocoaPods will be using this to generate tags, and improve search results.
-                   * Try to keep it short, snappy and to the point.
-                   * Finally, don't worry about the indent, CocoaPods strips it!
+                   Longer description of test.
                    DESC
 
-  s.homepage     = "http://EXAMPLE/test"
-  # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
+  s.homepage     = "https://github.com/SpookyDT/testGEOPlist"
 
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -39,8 +33,8 @@ Pod::Spec.new do |s|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  s.license      = "MIT (example)"
-  # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  s.license      = "Some license"
+  # s.license      = { :type => "MIT", :file => "License.txt" }
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
